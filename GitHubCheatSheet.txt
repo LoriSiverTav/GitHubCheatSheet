@@ -1,0 +1,18 @@
+GitHub Cheat-Sheet
+
+Initialize Repository
+Clone
+Organization settings
+Project setup + .gitignore
+Branches
+Stage changes
+Commits
+Pushing to remote
+Merging with branches or master
+Update custom branch using master
+Branches on branches on branches
+Reverting
+Merge conflicts and notepad
+Updating scenes using prefabs
+
+By Joaquin and Laurice
